@@ -1,8 +1,12 @@
-.entire-content {
-    /* background-color: black; */
-    background-image: url (./assets/background-image.jpeg);
+body {
+    background-image: url ('./assets/background-image.jpeg');
+    
+/* }; */
+
+/* .entire-content { */
     text-align: center;
     /* background-size: "cover"; */
+    /* background-color: black; */
     /* height: 100vh; */
     /* margin-top: -70px; */
     /* font-size:50px; */

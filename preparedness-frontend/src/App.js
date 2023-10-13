@@ -1,8 +1,9 @@
 import React from "react"
 import { Button, Input, Label } from "reactstrap"
 import ModalComponent from "./components/ModalComponent"
-import "./App.css"
 
+
+import "./App.css"
 const App = () => {
   return (
     <div className="entire-content">
