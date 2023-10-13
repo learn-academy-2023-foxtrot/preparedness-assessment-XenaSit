@@ -1,12 +1,14 @@
 import React from "react"
 import { Button, Input, Label } from "reactstrap"
 import ModalComponent from "./components/ModalComponent"
-
-
+import background from "./assets/background-image.jpeg";
 import "./App.css"
+
+
+
 const App = () => {
   return (
-    <div className="entire-content">
+    <div className="entire-content" style={{ backgroundImage: `url(${background})` }}>
       <h1>Preparedness Assessment</h1>
       <div className="form">
         <div className="input">
