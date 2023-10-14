@@ -17,6 +17,9 @@ const App = () => {
   return (
     <div className="entire-content" style={{ backgroundImage: `url(${background})` }}>
       <h1>Preparedness Assessment</h1>
+
+      <br/>
+      
       <div className="form">
         <div className="input">
           <NameInsertionApp />
