@@ -20,7 +20,7 @@
 
 ### Frontend Styling Acceptance Criteria
 
-⭐️ The header text color is white and is 50px
+#### ⭐️ The header text color is white and is 50px
 ⭐️ The header is centered on the page
 ⭐️ The input label text color is white and is 35px
 ⭐️ The input label is centered on the page
@@ -37,7 +37,7 @@
 - There is 20px between the two buttons
 - There is 20px between the bottom of the input and the top of the buttons
 
----
+===================================================================================
 
 ## Backend Assessment
 
