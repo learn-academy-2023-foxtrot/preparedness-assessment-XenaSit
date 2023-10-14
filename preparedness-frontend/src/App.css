@@ -8,6 +8,25 @@
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 100vh;
-    font-size:30px;
+    font-size:35px;
     color:  white;
 };
+
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    transition: background-color 0.3s ease;
+}
+
+.button-container button {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.input .form {
+    /* display: flex; */
+    /* align-content: center; */
+    /* align-items: center; */
+    width: 50%;
+}
