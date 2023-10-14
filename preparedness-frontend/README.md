@@ -26,7 +26,7 @@
 ⭐️ The input label is centered on the page
 ⭐️ The input field text is 18px
 - The input field should take up 50% of the width of the page
-- The input field is centered on the page
+⭐️ The input field is centered on the page
 - There is 12px of padding on the left and the right of the input field
 - There is 6px of padding on the top and the bottom of the input field
 - The buttons are centered under the input field
