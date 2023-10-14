@@ -2,14 +2,14 @@
 
 ### Frontend Functionality Acceptance Criteria
 
-⭐️ The application has a title of `Preparedness Assessment`
-⭐️ The application has an input field
-⭐️ The input field has a label that says `Enter your name`
-⭐️ Below the input field there are two buttons
-⭐️ The first button says `Click Me`
-⭐️ The second button says `Reset`
-⭐️ The user can enter their name in the input field
-⭐️ When the `Click Me` button is selected a modal appears
+###### ⭐️ The application has a title of `Preparedness Assessment`
+###### ⭐️ The application has an input field
+###### ⭐️ The input field has a label that says `Enter your name`
+###### ⭐️ Below the input field there are two buttons
+###### ⭐️ The first button says `Click Me`
+###### ⭐️ The second button says `Reset`
+###### ⭐️ The user can enter their name in the input field
+###### ⭐️ When the `Click Me` button is selected a modal appears
 
 - The modal has a header that greets the user with their name
 - The modal has a body with lorem ipsum filler text
@@ -20,11 +20,11 @@
 
 ### Frontend Styling Acceptance Criteria
 
-#### ⭐️ The header text color is white and is 50px
-⭐️ The header is centered on the page
-⭐️ The input label text color is white and is 35px
-⭐️ The input label is centered on the page
-⭐️ The input field text is 18px
+###### ⭐️ The header text color is white and is 50px
+###### ⭐️ The header is centered on the page
+###### ⭐️ The input label text color is white and is 35px
+###### ⭐️ The input label is centered on the page
+###### ⭐️ The input field text is 18px
 - The input field should take up 50% of the width of the page
 ⭐️ The input field is centered on the page
 - There is 12px of padding on the left and the right of the input field
