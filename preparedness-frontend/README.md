@@ -1,6 +1,6 @@
 # ⭐️ Preparedness Assessment
 
-### Frontend Functionality Acceptance Criteria
+## Frontend Functionality Acceptance Criteria
 
 ###### ⭐️ The application has a title of `Preparedness Assessment`
 ###### ⭐️ The application has an input field
@@ -10,15 +10,13 @@
 ###### ⭐️ The second button says `Reset`
 ###### ⭐️ The user can enter their name in the input field
 ###### ⭐️ When the `Click Me` button is selected a modal appears
-
 - The modal has a header that greets the user with their name
 - The modal has a body with lorem ipsum filler text
 - The modal has a close button
 - The close button in modal closes the modal
-
 - The `Reset` button clears the input field
 
-### Frontend Styling Acceptance Criteria
+## Frontend Styling Acceptance Criteria
 
 ###### ⭐️ The header text color is white and is 50px
 ###### ⭐️ The header is centered on the page
