@@ -27,6 +27,7 @@ const App = () => {
         
         {/* <ModalComponent /> */}
       </div>
+      
     </div>
   )
 }
