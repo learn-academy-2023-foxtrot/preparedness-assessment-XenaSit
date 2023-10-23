@@ -30,9 +30,9 @@ Swab scuttle grog blossom main sheet pirate lass yardarm broadside doubloon avas
     <div>
       <p>Hello {text}</p>
 
-      <Label for="name">Enter your name</Label>
+      <Label for="name" >Enter your name</Label>
       
-      <Input type="text" placeholder="Enter your name" onChange={handleInputChange}/>
+      <Input type="text" placeholder="Enter your name" onChange={handleInputChange} className='input-container'/>
 
       <div className="button-container">
         <Button color="primary" onClick={showAlert} >Click Me</Button>
