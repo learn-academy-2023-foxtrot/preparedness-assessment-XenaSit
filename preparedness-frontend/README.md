@@ -10,10 +10,10 @@
 ###### ⭐️ The second button says `Reset`
 ###### ⭐️ The user can enter their name in the input field
 ###### ⭐️ When the `Click Me` button is selected a modal appears
-- The modal has a header that greets the user with their name
-- The modal has a body with lorem ipsum filler text
-- The modal has a close button
-- The close button in modal closes the modal
+###### ⭐️ The modal has a header that greets the user with their name
+###### ⭐️ The modal has a body with lorem ipsum filler text
+###### ⭐️ The modal has a close button
+###### ⭐️ The close button in modal closes the modal
 - The `Reset` button clears the input field
 
 ## Frontend Styling Acceptance Criteria
